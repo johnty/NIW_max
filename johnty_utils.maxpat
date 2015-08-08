@@ -8,7 +8,7 @@
 			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 109.0, 89.0, 910.0, 667.0 ],
+		"rect" : [ 239.0, 422.0, 910.0, 667.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -706,7 +706,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 111.25, 507.0, 246.0, 31.0 ],
-					"text" : "/niw/client/VtoF 7000. 7000. 7000. 7000. 7000. 7000."
+					"text" : "/niw/client/VtoF 5000. 5000. 5000. 5000. 5000. 5000."
 				}
 
 			}
