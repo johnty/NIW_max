@@ -8,7 +8,7 @@
 			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 115.0, 53.0, 1169.0, 653.0 ],
+		"rect" : [ 111.0, 45.0, 1169.0, 653.0 ],
 		"bgcolor" : [ 0.509804, 0.627451, 0.666667, 1.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
@@ -561,7 +561,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 2,
 					"numoutlets" : 0,
-					"patching_rect" : [ 21.0, 214.0, 143.0, 20.0 ],
+					"patching_rect" : [ 21.0, 215.0, 143.0, 20.0 ],
 					"text" : "modular_crump_process"
 				}
 
@@ -8808,7 +8808,7 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "modular_crump.maxpat",
-				"bootpath" : "/Users/johnty/Dropbox/McGill/haptic_floor/maxpat/haptic_floor_may6",
+				"bootpath" : "/Users/johnty/Dropbox/mcgill/haptic_floor/maxpat/haptic_floor_may6",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
@@ -8822,7 +8822,7 @@
 			}
 , 			{
 				"name" : "modular_crump_process.maxpat",
-				"bootpath" : "/Users/johnty/Dropbox/McGill/haptic_floor/maxpat/haptic_floor_may6",
+				"bootpath" : "/Users/johnty/Dropbox/mcgill/haptic_floor/maxpat/haptic_floor_may6",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
